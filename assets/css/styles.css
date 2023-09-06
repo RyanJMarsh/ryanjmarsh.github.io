@@ -356,6 +356,11 @@ header {
   margin-bottom: var(--mb-5);
 }
 
+.home_job {
+  font-size: var(--h2-font-size);
+  margin-bottom: var(--mb-5);
+}
+
 .home_title-color {
   color: var(--first-color);
 }
